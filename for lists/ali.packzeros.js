@@ -1,0 +1,1 @@
+inlets = 2;outlets = 1;var len = 2;function msg_int(a){	//post("hi");	//post("inlet: ", inlet, "\n");	if (inlet==0)	{		var b = String(a);		while (b.length < len) 		{			b="0"+b;		}	outlet(0,b);	}	if (inlet ==1)	{		len = a;	}}function length(x){	length = x;}

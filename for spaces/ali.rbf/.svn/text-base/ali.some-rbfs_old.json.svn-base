@@ -1,0 +1,73 @@
+{
+	"pattrstorage" : 	{
+		"name" : "ali.some-rbfs.json",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"rbfi" : [ "preset 3", "coords", -0.478788, -0.454545, "rgb", 0.5625, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "preset 2", "coords", 0.50303, -0.424242, "rgb", 0.75, 0.75, 0.1875, "inner_radius", 0.052311, "outer_radius", 0.2, "preset 1", "coords", 0.521212, 0.581818, "rgb", 0.75, 0.5625, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "preset 0", "coords", -0.466667, 0.539394, "rgb", 0.75, 0.375, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"rbfi" : [ "-4-", "coords", -0.006061, -0.793939, "rgb", 0.375, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-3-", "coords", -0.721212, 0.066667, "rgb", 0.5625, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-2-", "coords", -0.036364, 0.806061, "rgb", 0.75, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-1-", "coords", 0.751515, 0.054545, "rgb", 0.75, 0.5625, 0.1875, "inner_radius", 0.051604, "outer_radius", 0.2, "-0-", "coords", -0.018182, 0.024242, "rgb", 0.75, 0.375, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"rbfi" : [ "preset 8", "coords", 0.921212, -0.909091, "rgb", 0.1875, 0.75, 0.75, "inner_radius", 0.05, "outer_radius", 0.2, "preset 7", "coords", -0.921212, -0.890909, "rgb", 0.1875, 0.75, 0.5625, "inner_radius", 0.05, "outer_radius", 0.2, "preset 6", "coords", -0.89697, 0.915151, "rgb", 0.1875, 0.75, 0.375, "inner_radius", 0.05, "outer_radius", 0.2, "preset 5", "coords", 0.854545, 0.860606, "rgb", 0.1875, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-0-", "coords", -0.018182, 0.024242, "rgb", 0.75, 0.375, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-1-", "coords", 0.751515, 0.054545, "rgb", 0.75, 0.5625, 0.1875, "inner_radius", 0.051604, "outer_radius", 0.2, "-2-", "coords", -0.036364, 0.806061, "rgb", 0.75, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-3-", "coords", -0.721212, 0.066667, "rgb", 0.5625, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-4-", "coords", -0.006061, -0.793939, "rgb", 0.375, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"rbfi" : [ "-4-", "coords", -0.006061, -0.793939, "rgb", 0.375, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-3-", "coords", -0.721212, 0.066667, "rgb", 0.5625, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-2-", "coords", -0.036364, 0.806061, "rgb", 0.75, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-1-", "coords", 0.751515, 0.054545, "rgb", 0.75, 0.5625, 0.1875, "inner_radius", 0.051604, "outer_radius", 0.2, "-0-", "coords", -0.018182, 0.024242, "rgb", 0.75, 0.375, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"rbfi" : [ "preset 16", "coords", 0.10303, -0.381818, "rgb", 0.75, 0.1875, 0.375, "inner_radius", 0.05, "outer_radius", 0.2, "preset 15", "coords", -0.145455, -0.387879, "rgb", 0.75, 0.1875, 0.5625, "inner_radius", 0.05, "outer_radius", 0.2, "preset 14", "coords", -0.333333, -0.127273, "rgb", 0.75, 0.1875, 0.75, "inner_radius", 0.05, "outer_radius", 0.2, "preset 13", "coords", -0.327273, 0.145455, "rgb", 0.5625, 0.1875, 0.75, "inner_radius", 0.05, "outer_radius", 0.2, "preset 12", "coords", -0.163636, 0.29697, "rgb", 0.375, 0.1875, 0.75, "inner_radius", 0.05, "outer_radius", 0.2, "preset 11", "coords", 0.09697, 0.284848, "rgb", 0.1875, 0.1875, 0.75, "inner_radius", 0.05, "outer_radius", 0.2, "preset 10", "coords", 0.339394, 0.139394, "rgb", 0.1875, 0.375, 0.75, "inner_radius", 0.05, "outer_radius", 0.2, "preset 9", "coords", 0.339394, -0.145455, "rgb", 0.1875, 0.5625, 0.75, "inner_radius", 0.05, "outer_radius", 0.2, "-4-", "coords", -0.006061, -0.793939, "rgb", 0.375, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-3-", "coords", -0.721212, 0.066667, "rgb", 0.5625, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-2-", "coords", -0.036364, 0.806061, "rgb", 0.75, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-1-", "coords", 0.751515, 0.054545, "rgb", 0.75, 0.5625, 0.1875, "inner_radius", 0.051604, "outer_radius", 0.2, "-0-", "coords", -0.018182, 0.024242, "rgb", 0.75, 0.375, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "preset 5", "coords", 0.854545, 0.860606, "rgb", 0.1875, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "preset 6", "coords", -0.89697, 0.915151, "rgb", 0.1875, 0.75, 0.375, "inner_radius", 0.05, "outer_radius", 0.2, "preset 7", "coords", -0.921212, -0.890909, "rgb", 0.1875, 0.75, 0.5625, "inner_radius", 0.05, "outer_radius", 0.2, "preset 8", "coords", 0.921212, -0.909091, "rgb", 0.1875, 0.75, 0.75, "inner_radius", 0.05, "outer_radius", 0.2 ]
+				}
+
+			}
+,
+			"6" : 			{
+				"id" : 6,
+				"data" : 				{
+					"rbfi" : [ "-12-", "coords", 0.769697, -0.812121, "rgb", 0.375, 0.1875, 0.75, "inner_radius", 0.05, "outer_radius", 0.2, "-11-", "coords", -0.715152, -0.806061, "rgb", 0.1875, 0.1875, 0.75, "inner_radius", 0.05, "outer_radius", 0.2, "-10-", "coords", -0.69697, 0.672727, "rgb", 0.1875, 0.375, 0.75, "inner_radius", 0.05, "outer_radius", 0.2, "-9-", "coords", 0.666667, 0.690909, "rgb", 0.1875, 0.5625, 0.75, "inner_radius", 0.05, "outer_radius", 0.2, "-8-", "coords", 0.418182, -0.472727, "rgb", 0.1875, 0.75, 0.75, "inner_radius", 0.05, "outer_radius", 0.2, "-7-", "coords", -0.012121, -0.666667, "rgb", 0.1875, 0.75, 0.5625, "inner_radius", 0.05, "outer_radius", 0.2, "-6-", "coords", -0.454545, -0.472727, "rgb", 0.1875, 0.75, 0.375, "inner_radius", 0.05, "outer_radius", 0.2, "-5-", "coords", -0.709091, -0.054545, "rgb", 0.1875, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-4-", "coords", -0.436364, 0.412121, "rgb", 0.375, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-3-", "coords", -0.018182, 0.587879, "rgb", 0.5625, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-2-", "coords", 0.333333, 0.393939, "rgb", 0.75, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-1-", "coords", 0.527273, -0.036364, "rgb", 0.75, 0.5625, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-0-", "coords", -0.024242, -0.0, "rgb", 0.75, 0.375, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2 ]
+				}
+
+			}
+,
+			"7" : 			{
+				"id" : 7,
+				"data" : 				{
+					"rbfi" : [ "-24-", "coords", 0.787879, -0.860606, "rgb", 0.1875, 0.75, 0.375, "inner_radius", 0.05, "outer_radius", 0.2, "-23-", "coords", -0.8, -0.793939, "rgb", 0.1875, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-22-", "coords", -0.848485, 0.878788, "rgb", 0.375, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-21-", "coords", 0.8, 0.830303, "rgb", 0.5625, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-20-", "coords", 0.745454, -0.278788, "rgb", 0.75, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-19-", "coords", 0.49697, -0.672727, "rgb", 0.75, 0.5625, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-18-", "coords", 0.018182, -0.866667, "rgb", 0.75, 0.375, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-17-", "coords", -0.345455, -0.666667, "rgb", 0.75, 0.1875, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-16-", "coords", -0.733333, -0.29697, "rgb", 0.75, 0.1875, 0.375, "inner_radius", 0.05, "outer_radius", 0.2, "-15-", "coords", -0.884848, -0.066667, "rgb", 0.75, 0.1875, 0.5625, "inner_radius", 0.05, "outer_radius", 0.2, "-14-", "coords", -0.745455, 0.315151, "rgb", 0.75, 0.1875, 0.75, "inner_radius", 0.05, "outer_radius", 0.2, "-13-", "coords", -0.387879, 0.684848, "rgb", 0.5625, 0.1875, 0.75, "inner_radius", 0.05, "outer_radius", 0.2, "-12-", "coords", -0.084849, 0.89697, "rgb", 0.375, 0.1875, 0.75, "inner_radius", 0.05, "outer_radius", 0.2, "-11-", "coords", 0.254545, 0.69697, "rgb", 0.1875, 0.1875, 0.75, "inner_radius", 0.05, "outer_radius", 0.2, "-10-", "coords", 0.690909, 0.29697, "rgb", 0.1875, 0.375, 0.75, "inner_radius", 0.05, "outer_radius", 0.2, "-9-", "coords", 0.824242, 0.060606, "rgb", 0.1875, 0.5625, 0.75, "inner_radius", 0.05, "outer_radius", 0.2, "-8-", "coords", 0.254545, -0.30303, "rgb", 0.1875, 0.75, 0.75, "inner_radius", 0.05, "outer_radius", 0.2, "-7-", "coords", -0.018182, -0.509091, "rgb", 0.1875, 0.75, 0.5625, "inner_radius", 0.05, "outer_radius", 0.2, "-6-", "coords", -0.327273, -0.242424, "rgb", 0.1875, 0.75, 0.375, "inner_radius", 0.061284, "outer_radius", 0.2, "-5-", "coords", -0.490909, 0.048485, "rgb", 0.1875, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-4-", "coords", -0.375758, 0.357576, "rgb", 0.375, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-3-", "coords", -0.048485, 0.533333, "rgb", 0.5625, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-2-", "coords", 0.309091, 0.363636, "rgb", 0.75, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-1-", "coords", 0.472727, 0.018182, "rgb", 0.75, 0.5625, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-0-", "coords", -0.012121, 0.036364, "rgb", 0.75, 0.375, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2 ]
+				}
+
+			}
+,
+			"8" : 			{
+				"id" : 8,
+				"data" : 				{
+					"rbfi" : [ "-40-", "coords", 0.909091, -0.921212, "rgb", 0.375, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-39-", "coords", -0.939394, -0.848485, "rgb", 0.5625, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-38-", "coords", -0.884848, 0.951515, "rgb", 0.75, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-37-", "coords", 0.872727, 0.866667, "rgb", 0.75, 0.5625, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-36-", "coords", 0.927273, -0.49697, "rgb", 0.75, 0.375, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-35-", "coords", 0.739394, -0.733333, "rgb", 0.75, 0.1875, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-34-", "coords", 0.436364, -0.945455, "rgb", 0.75, 0.1875, 0.375, "inner_radius", 0.05, "outer_radius", 0.2, "-33-", "coords", -0.454545, -0.915152, "rgb", 0.75, 0.1875, 0.5625, "inner_radius", 0.05, "outer_radius", 0.2, "-32-", "coords", -0.745455, -0.654545, "rgb", 0.75, 0.1875, 0.75, "inner_radius", 0.05, "outer_radius", 0.2, "-31-", "coords", -0.981818, -0.351515, "rgb", 0.5625, 0.1875, 0.75, "inner_radius", 0.05, "outer_radius", 0.2, "-30-", "coords", -0.89697, 0.533333, "rgb", 0.375, 0.1875, 0.75, "inner_radius", 0.05, "outer_radius", 0.2, "-29-", "coords", -0.715152, 0.751515, "rgb", 0.1875, 0.1875, 0.75, "inner_radius", 0.05, "outer_radius", 0.2, "-28-", "coords", -0.478788, 0.933333, "rgb", 0.1875, 0.375, 0.75, "inner_radius", 0.05, "outer_radius", 0.2, "-27-", "coords", 0.363636, 0.915151, "rgb", 0.1875, 0.5625, 0.75, "inner_radius", 0.05, "outer_radius", 0.2, "-26-", "coords", 0.636364, 0.6, "rgb", 0.1875, 0.75, 0.75, "inner_radius", 0.05, "outer_radius", 0.2, "-25-", "coords", 0.945454, 0.357576, "rgb", 0.1875, 0.75, 0.5625, "inner_radius", 0.05, "outer_radius", 0.2, "-24-", "coords", 0.727273, -0.363636, "rgb", 0.1875, 0.75, 0.375, "inner_radius", 0.05, "outer_radius", 0.2, "-23-", "coords", 0.424242, -0.684848, "rgb", 0.1875, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-22-", "coords", -0.042424, -0.872727, "rgb", 0.375, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-21-", "coords", -0.375758, -0.660606, "rgb", 0.5625, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-20-", "coords", -0.733333, -0.254545, "rgb", 0.75, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-19-", "coords", -0.872727, 0.042424, "rgb", 0.75, 0.5625, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-18-", "coords", -0.624242, 0.363636, "rgb", 0.75, 0.375, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-17-", "coords", -0.339394, 0.684848, "rgb", 0.75, 0.1875, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-16-", "coords", -0.084849, 0.921212, "rgb", 0.75, 0.1875, 0.375, "inner_radius", 0.05, "outer_radius", 0.2, "-15-", "coords", 0.290909, 0.575758, "rgb", 0.75, 0.1875, 0.5625, "inner_radius", 0.05, "outer_radius", 0.2, "-14-", "coords", 0.618182, 0.236364, "rgb", 0.75, 0.1875, 0.75, "inner_radius", 0.05, "outer_radius", 0.2, "-13-", "coords", 0.848485, -0.006061, "rgb", 0.5625, 0.1875, 0.75, "inner_radius", 0.05, "outer_radius", 0.2, "-12-", "coords", 0.315151, -0.345455, "rgb", 0.375, 0.1875, 0.75, "inner_radius", 0.05, "outer_radius", 0.2, "-11-", "coords", -0.024242, -0.539394, "rgb", 0.1875, 0.1875, 0.75, "inner_radius", 0.05, "outer_radius", 0.2, "-10-", "coords", -0.381818, -0.327273, "rgb", 0.1875, 0.375, 0.75, "inner_radius", 0.05, "outer_radius", 0.2, "-9-", "coords", -0.539394, 0.012121, "rgb", 0.1875, 0.5625, 0.75, "inner_radius", 0.05, "outer_radius", 0.2, "-8-", "coords", -0.309091, 0.387879, "rgb", 0.1875, 0.75, 0.75, "inner_radius", 0.05, "outer_radius", 0.2, "-7-", "coords", -0.036364, 0.575758, "rgb", 0.1875, 0.75, 0.5625, "inner_radius", 0.05, "outer_radius", 0.2, "-6-", "coords", 0.30303, 0.260606, "rgb", 0.1875, 0.75, 0.375, "inner_radius", 0.05, "outer_radius", 0.2, "-5-", "coords", 0.509091, -0.024242, "rgb", 0.1875, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-4-", "coords", -0.030303, -0.29697, "rgb", 0.375, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-3-", "coords", -0.242424, 0.012121, "rgb", 0.5625, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-2-", "coords", -0.006061, 0.260606, "rgb", 0.75, 0.75, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-1-", "coords", 0.212121, -0.0, "rgb", 0.75, 0.5625, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2, "-0-", "coords", 0.006061, 0.024242, "rgb", 0.75, 0.375, 0.1875, "inner_radius", 0.05, "outer_radius", 0.2 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
