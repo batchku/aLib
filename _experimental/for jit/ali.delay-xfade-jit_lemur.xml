@@ -1,0 +1,36 @@
+<JZML>
+<WINDOW class="JAZZINTERFACE" text="Default" x="0" y="0" width="800" height="600" state="1" group="0x00000000" >
+<WINDOW class="RingArea" text="delay" x="0" y="0" width="401" height="401" state="1" group="0x00000000" send="1" label="0" color="242" capture="1">
+<PARAM name="x=" value="0.146447" send="17" osc_target="1" osc_trigger="1" osc_message="/delay/x" midi_target="-1" midi_trigger="1" midi_message="0x90,0x0,0,0" midi_scale="0,16383"/>
+<PARAM name="y=" value="0.146447" send="17" osc_target="1" osc_trigger="1" osc_message="/delay/y" midi_target="-1" midi_trigger="1" midi_message="0x90,0x0,0,0" midi_scale="0,16383"/>
+<VARIABLE name="attraction=delayAttraction.x" send="0" osc_target="0" osc_trigger="1" osc_message="/delay/attraction" midi_target="-1" midi_trigger="1" midi_message="0x90,0x0,0,0" midi_scale="0,16383"/>
+<VARIABLE name="friction=delayFriction.x" send="0" osc_target="0" osc_trigger="1" osc_message="/delay/friction" midi_target="-1" midi_trigger="1" midi_message="0x90,0x0,0,0" midi_scale="0,16383"/>
+<VARIABLE name="attraction_x=delayconst.x" send="0" osc_target="0" osc_trigger="1" osc_message="/delay/attraction_x" midi_target="-1" midi_trigger="1" midi_message="0x90,0x0,0,0" midi_scale="0,16383"/>
+<VARIABLE name="attraction_y=delayconst.y" send="0" osc_target="0" osc_trigger="1" osc_message="/delay/attraction_y" midi_target="-1" midi_trigger="1" midi_message="0x90,0x0,0,0" midi_scale="0,16383"/>
+</WINDOW>
+<WINDOW class="Multiball" text="delayconst" x="404" y="0" width="396" height="401" state="1" group="0x00000000" send="0" label="0" nbr="3" color="160" capture="1" ephemere="0" cursor="1" polyphony="0" physic="1">
+<PARAM name="x=" value="0.000000,0.000000,0.000000" send="17" osc_target="0" osc_trigger="1" osc_message="/delayconst/x" midi_target="-1" midi_trigger="1" midi_message="0x90,0x0,0,0" midi_scale="0,16383"/>
+<PARAM name="y=" value="0.000000,0.000000,0.000000" send="17" osc_target="0" osc_trigger="1" osc_message="/delayconst/y" midi_target="-1" midi_trigger="1" midi_message="0x90,0x0,0,0" midi_scale="0,16383"/>
+<PARAM name="z=" value="0.000000,0.000000,0.000000" send="17" osc_target="0" osc_trigger="1" osc_message="/delayconst/z" midi_target="-1" midi_trigger="1" midi_message="0x90,0x0,0,0" midi_scale="0,16383"/>
+<VARIABLE name="attraction=1" send="0" osc_target="0" osc_trigger="1" osc_message="/delayconst/attraction" midi_target="-1" midi_trigger="1" midi_message="0x90,0x0,0,0" midi_scale="0,16383"/>
+<VARIABLE name="friction=0.6" send="0" osc_target="0" osc_trigger="1" osc_message="/delayconst/friction" midi_target="-1" midi_trigger="1" midi_message="0x90,0x0,0,0" midi_scale="0,16383"/>
+<VARIABLE name="attack=0" send="0" osc_target="0" osc_trigger="1" osc_message="/delayconst/attack" midi_target="-1" midi_trigger="1" midi_message="0x90,0x0,0,0" midi_scale="0,16383"/>
+<VARIABLE name="decay=0" send="0" osc_target="0" osc_trigger="1" osc_message="/delayconst/decay" midi_target="-1" midi_trigger="1" midi_message="0x90,0x0,0,0" midi_scale="0,16383"/>
+<VARIABLE name="sustain=1" send="0" osc_target="0" osc_trigger="1" osc_message="/delayconst/sustain" midi_target="-1" midi_trigger="1" midi_message="0x90,0x0,0,0" midi_scale="0,16383"/>
+<VARIABLE name="release=0" send="0" osc_target="0" osc_trigger="1" osc_message="/delayconst/release" midi_target="-1" midi_trigger="1" midi_message="0x90,0x0,0,0" midi_scale="0,16383"/>
+<VARIABLE name="hold=0" send="0" osc_target="0" osc_trigger="1" osc_message="/delayconst/hold" midi_target="-1" midi_trigger="1" midi_message="0x90,0x0,0,0" midi_scale="0,16383"/>
+</WINDOW>
+<WINDOW class="Fader" text="delayAttraction" x="0" y="401" width="404" height="58" state="1" group="0x00000000" send="0" label="1" value="0" unit="" precision="3" color="60" capture="1" cursor="0" physic="1">
+<PARAM name="x=" value="0.000000" send="17" osc_target="0" osc_trigger="1" osc_message="/delayAttraction/x" midi_target="-1" midi_trigger="1" midi_message="0x90,0x0,0,0" midi_scale="0,16383"/>
+<VARIABLE name="value=x" send="0" osc_target="0" osc_trigger="1" osc_message="/delayAttraction/value" midi_target="-1" midi_trigger="1" midi_message="0x90,0x0,0,0" midi_scale="0,16383"/>
+<VARIABLE name="attraction=1" send="0" osc_target="0" osc_trigger="1" osc_message="/delayAttraction/attraction" midi_target="-1" midi_trigger="1" midi_message="0x90,0x0,0,0" midi_scale="0,16383"/>
+<VARIABLE name="friction=0.9" send="0" osc_target="0" osc_trigger="1" osc_message="/delayAttraction/friction" midi_target="-1" midi_trigger="1" midi_message="0x90,0x0,0,0" midi_scale="0,16383"/>
+</WINDOW>
+<WINDOW class="Fader" text="delayFriction" x="0" y="459" width="404" height="58" state="1" group="0x00000000" send="0" label="1" value="0" unit="" precision="3" color="60" capture="1" cursor="0" physic="1">
+<PARAM name="x=" value="0.000000" send="17" osc_target="0" osc_trigger="1" osc_message="/delayFriction/x" midi_target="-1" midi_trigger="1" midi_message="0x90,0x0,0,0" midi_scale="0,16383"/>
+<VARIABLE name="value=x" send="0" osc_target="0" osc_trigger="1" osc_message="/delayFriction/value" midi_target="-1" midi_trigger="1" midi_message="0x90,0x0,0,0" midi_scale="0,16383"/>
+<VARIABLE name="attraction=1" send="0" osc_target="0" osc_trigger="1" osc_message="/delayFriction/attraction" midi_target="-1" midi_trigger="1" midi_message="0x90,0x0,0,0" midi_scale="0,16383"/>
+<VARIABLE name="friction=0.9" send="0" osc_target="0" osc_trigger="1" osc_message="/delayFriction/friction" midi_target="-1" midi_trigger="1" midi_message="0x90,0x0,0,0" midi_scale="0,16383"/>
+</WINDOW>
+</WINDOW>
+</JZML>

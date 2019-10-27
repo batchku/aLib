@@ -21,3 +21,7 @@ function anything() {
     tstring = tstring+ splitstring[i];
     outlet(0, tstring);
 }
+function list()
+{
+	post("ali.remove-char.js");
+}

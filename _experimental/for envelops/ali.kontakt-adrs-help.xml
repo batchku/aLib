@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+
+<pattrstorage name = "ali.kontakt-adrs-help.xml">
+	<slot number = "1">
+		<pattr name = "cahdrs" value = "0 0 127 126 126 126" />
+	</slot>
+	<slot number = "2">
+		<pattr name = "cahdrs" value = "64 81 124 123 122 122" />
+	</slot>
+	<slot number = "3">
+		<pattr name = "cahdrs" value = "94 78 57 40 19 0" />
+	</slot>
+	<slot number = "4">
+		<pattr name = "cahdrs" value = "13 6 10 0 3 11" />
+	</slot>
+	<slot number = "5">
+		<pattr name = "cahdrs" value = "13 70 10 0 3 11" />
+	</slot>
+	<slot number = "6">
+		<pattr name = "cahdrs" value = "0 0 126 125 125 32" />
+	</slot>
+	<slot number = "7">
+		<pattr name = "cahdrs" value = "0 3 60 37 17 10" />
+	</slot>
+	<slot number = "8">
+		<pattr name = "cahdrs" value = "71 41 46 54 59 56" />
+	</slot>
+	<slot number = "9">
+		<pattr name = "cahdrs" value = "71 102 46 54 14 125" />
+	</slot>
+	<slot number = "10">
+		<pattr name = "cahdrs" value = "127 127 127 127 127 127" />
+	</slot>
+	<slot number = "11">
+		<pattr name = "cahdrs" value = "19 102 19 89 79 125" />
+	</slot>
+	<slot number = "12">
+		<pattr name = "cahdrs" value = "0 3 17 14 11 10" />
+	</slot>
+	<slot number = "13">
+		<pattr name = "cahdrs" value = "44 35 14 2 0 0" />
+	</slot>
+	<slot number = "14">
+		<pattr name = "cahdrs" value = "44 35 14 25 24 49" />
+	</slot>
+</pattrstorage>
+

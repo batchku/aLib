@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+
+<pattrstorage name = "ali.analyzer~-controller01.xml">
+	<slot number = "1">
+		<patcher name = "ali.ctlout-mapper.pat[2]">
+			<pattr name = "bpf" value = "22500. 0. 127. 0. 0. 0 22500. 127. 0" />
+			<pattr name = "ch" value = "1" />
+			<pattr name = "num" value = "2" />
+		</patcher>
+		<patcher name = "ali.ctlout-mapper.pat[1]">
+			<pattr name = "bpf" value = "1. 0. 127. 0. 0. 0 1. 127. 0" />
+			<pattr name = "ch" value = "1" />
+			<pattr name = "num" value = "3" />
+		</patcher>
+		<patcher name = "ali.ctlout-mapper.pat[3]">
+			<pattr name = "bpf" value = "126. 0. 127. 0. 0. 0 126. 127. 0" />
+			<pattr name = "ch" value = "1" />
+			<pattr name = "num" value = "4" />
+		</patcher>
+		<patcher name = "ali.ctlout-mapper.pat[4]">
+			<pattr name = "bpf" value = "127. 0. 127. 0. 0. 0 127. 127. 0" />
+			<pattr name = "ch" value = "1" />
+			<pattr name = "num" value = "1" />
+		</patcher>
+	</slot>
+</pattrstorage>
+

@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+
+<pattrstorage name = "ali.paf-bank~-params">
+	<slot number = "1">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "0." />
+		<pattr name = "cf*" value = "1." />
+		<pattr name = "cf+" value = "0." />
+		<pattr name = "shift" value = "0." />
+		<pattr name = "vib_d" value = "" />
+		<pattr name = "vib_f" value = "0." />
+	</slot>
+	<slot number = "2">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "0." />
+		<pattr name = "cf*" value = "1." />
+		<pattr name = "cf+" value = "0." />
+		<pattr name = "shift" value = "0." />
+		<pattr name = "vib_d" value = "" />
+		<pattr name = "vib_f" value = "0." />
+	</slot>
+	<slot number = "3">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "0.002673" />
+		<pattr name = "cf*" value = "1.000054" />
+		<pattr name = "cf+" value = "0." />
+		<pattr name = "shift" value = "0." />
+		<pattr name = "vib_d" value = "0.058" />
+		<pattr name = "vib_f" value = "148." />
+	</slot>
+	<slot number = "4">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "0.002673" />
+		<pattr name = "cf*" value = "1.000054" />
+		<pattr name = "cf+" value = "-0." />
+		<pattr name = "shift" value = "0." />
+		<pattr name = "vib_d" value = "0.313" />
+		<pattr name = "vib_f" value = "267." />
+	</slot>
+	<slot number = "5">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "0." />
+		<pattr name = "cf*" value = "1." />
+		<pattr name = "cf+" value = "0." />
+		<pattr name = "shift" value = "0." />
+		<pattr name = "vib_d" value = "" />
+		<pattr name = "vib_f" value = "0." />
+	</slot>
+	<slot number = "6">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "0.043196" />
+		<pattr name = "cf*" value = "1.000193" />
+		<pattr name = "cf+" value = "-0." />
+		<pattr name = "shift" value = "0." />
+		<pattr name = "vib_d" value = "0.151" />
+		<pattr name = "vib_f" value = "76." />
+	</slot>
+	<slot number = "7">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "0.043196" />
+		<pattr name = "cf*" value = "1.000193" />
+		<pattr name = "cf+" value = "-0." />
+		<pattr name = "shift" value = "0." />
+		<pattr name = "vib_d" value = "0.01101" />
+		<pattr name = "vib_f" value = "4." />
+	</slot>
+	<slot number = "8">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "20.065857" />
+		<pattr name = "cf*" value = "1.405371" />
+		<pattr name = "cf+" value = "0." />
+		<pattr name = "shift" value = "0." />
+		<pattr name = "vib_d" value = "0." />
+		<pattr name = "vib_f" value = "0." />
+	</slot>
+	<slot number = "9">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "98.844322" />
+		<pattr name = "cf*" value = "2.996855" />
+		<pattr name = "cf+" value = "0." />
+		<pattr name = "shift" value = "0." />
+		<pattr name = "vib_d" value = "0." />
+		<pattr name = "vib_f" value = "0." />
+	</slot>
+	<slot number = "10">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "98.844322" />
+		<pattr name = "cf*" value = "2.996855" />
+		<pattr name = "cf+" value = "0." />
+		<pattr name = "shift" value = "0." />
+		<pattr name = "vib_d" value = "0." />
+		<pattr name = "vib_f" value = "0." />
+	</slot>
+	<slot number = "11">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "17.416609" />
+		<pattr name = "cf*" value = "1.201758" />
+		<pattr name = "cf+" value = "-17.588902" />
+		<pattr name = "shift" value = "-1." />
+		<pattr name = "vib_d" value = "0.037937" />
+		<pattr name = "vib_f" value = "139." />
+	</slot>
+	<slot number = "12">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "0." />
+		<pattr name = "cf*" value = "1." />
+		<pattr name = "cf+" value = "0." />
+		<pattr name = "shift" value = "0." />
+		<pattr name = "vib_d" value = "" />
+		<pattr name = "vib_f" value = "0." />
+	</slot>
+	<slot number = "13">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "0." />
+		<pattr name = "cf*" value = "1." />
+		<pattr name = "cf+" value = "0." />
+		<pattr name = "shift" value = "0." />
+		<pattr name = "vib_d" value = "" />
+		<pattr name = "vib_f" value = "0." />
+	</slot>
+	<slot number = "14">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "0.002673" />
+		<pattr name = "cf*" value = "1.000054" />
+		<pattr name = "cf+" value = "0." />
+		<pattr name = "shift" value = "0." />
+		<pattr name = "vib_d" value = "0.058" />
+		<pattr name = "vib_f" value = "148." />
+	</slot>
+	<slot number = "15">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "0.002673" />
+		<pattr name = "cf*" value = "1.000054" />
+		<pattr name = "cf+" value = "0." />
+		<pattr name = "shift" value = "0." />
+		<pattr name = "vib_d" value = "0.058" />
+		<pattr name = "vib_f" value = "148." />
+	</slot>
+	<slot number = "16">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "0.002673" />
+		<pattr name = "cf*" value = "1.000054" />
+		<pattr name = "cf+" value = "-0." />
+		<pattr name = "shift" value = "0." />
+		<pattr name = "vib_d" value = "0.313" />
+		<pattr name = "vib_f" value = "267." />
+	</slot>
+	<slot number = "17">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "0.002673" />
+		<pattr name = "cf*" value = "1.000054" />
+		<pattr name = "cf+" value = "-0." />
+		<pattr name = "shift" value = "0." />
+		<pattr name = "vib_d" value = "0.313" />
+		<pattr name = "vib_f" value = "267." />
+	</slot>
+	<slot number = "18">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "0.043196" />
+		<pattr name = "cf*" value = "1.000193" />
+		<pattr name = "cf+" value = "-0." />
+		<pattr name = "shift" value = "0." />
+		<pattr name = "vib_d" value = "0.151" />
+		<pattr name = "vib_f" value = "76." />
+	</slot>
+	<slot number = "19">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "0.043196" />
+		<pattr name = "cf*" value = "1.000193" />
+		<pattr name = "cf+" value = "-0." />
+		<pattr name = "shift" value = "0." />
+		<pattr name = "vib_d" value = "0.151" />
+		<pattr name = "vib_f" value = "76." />
+	</slot>
+	<slot number = "20">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "0.043196" />
+		<pattr name = "cf*" value = "1.000193" />
+		<pattr name = "cf+" value = "-0." />
+		<pattr name = "shift" value = "0." />
+		<pattr name = "vib_d" value = "0.01101" />
+		<pattr name = "vib_f" value = "4." />
+	</slot>
+	<slot number = "21">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "0.043196" />
+		<pattr name = "cf*" value = "1.000193" />
+		<pattr name = "cf+" value = "-0." />
+		<pattr name = "shift" value = "0." />
+		<pattr name = "vib_d" value = "0.01101" />
+		<pattr name = "vib_f" value = "4." />
+	</slot>
+	<slot number = "22">
+		<pattr name = "amp*" value = "1.67" />
+		<pattr name = "bw" value = "90." />
+		<pattr name = "cf*" value = "5.61" />
+		<pattr name = "cf+" value = "-0." />
+		<pattr name = "shift" value = "11." />
+		<pattr name = "vib_d" value = "0." />
+		<pattr name = "vib_f" value = "139." />
+	</slot>
+	<slot number = "23">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "98.844322" />
+		<pattr name = "cf*" value = "2.996855" />
+		<pattr name = "cf+" value = "0." />
+		<pattr name = "shift" value = "0." />
+		<pattr name = "vib_d" value = "0." />
+		<pattr name = "vib_f" value = "0." />
+	</slot>
+	<slot number = "24">
+		<pattr name = "amp*" value = "1.67" />
+		<pattr name = "bw" value = "123." />
+		<pattr name = "cf*" value = "5.61" />
+		<pattr name = "cf+" value = "-0." />
+		<pattr name = "shift" value = "11." />
+		<pattr name = "vib_d" value = "0." />
+		<pattr name = "vib_f" value = "139." />
+	</slot>
+	<slot number = "25">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "98.844322" />
+		<pattr name = "cf*" value = "2.996855" />
+		<pattr name = "cf+" value = "0." />
+		<pattr name = "shift" value = "0." />
+		<pattr name = "vib_d" value = "0." />
+		<pattr name = "vib_f" value = "0." />
+	</slot>
+	<slot number = "26">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "0." />
+		<pattr name = "cf*" value = "1." />
+		<pattr name = "cf+" value = "0." />
+		<pattr name = "shift" value = "0." />
+		<pattr name = "vib_d" value = "" />
+		<pattr name = "vib_f" value = "0." />
+	</slot>
+	<slot number = "27">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "101." />
+		<pattr name = "cf*" value = "2.17" />
+		<pattr name = "cf+" value = "-102." />
+		<pattr name = "shift" value = "244." />
+		<pattr name = "vib_d" value = "0.22" />
+		<pattr name = "vib_f" value = "97." />
+	</slot>
+	<slot number = "28">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "0." />
+		<pattr name = "cf*" value = "1." />
+		<pattr name = "cf+" value = "0." />
+		<pattr name = "shift" value = "0." />
+		<pattr name = "vib_d" value = "" />
+		<pattr name = "vib_f" value = "0." />
+	</slot>
+	<slot number = "29">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "101." />
+		<pattr name = "cf*" value = "2.17" />
+		<pattr name = "cf+" value = "-102." />
+		<pattr name = "shift" value = "244." />
+		<pattr name = "vib_d" value = "0.22" />
+		<pattr name = "vib_f" value = "97." />
+	</slot>
+	<slot number = "30">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "68." />
+		<pattr name = "cf*" value = "236." />
+		<pattr name = "cf+" value = "166." />
+		<pattr name = "shift" value = "110." />
+		<pattr name = "vib_d" value = "2.297" />
+		<pattr name = "vib_f" value = "504." />
+	</slot>
+	<slot number = "31">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "147." />
+		<pattr name = "cf*" value = "235.956024" />
+		<pattr name = "cf+" value = "165.968933" />
+		<pattr name = "shift" value = "109.979416" />
+		<pattr name = "vib_d" value = "2.296627" />
+		<pattr name = "vib_f" value = "-68." />
+	</slot>
+	<slot number = "32">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "147." />
+		<pattr name = "cf*" value = "235.956024" />
+		<pattr name = "cf+" value = "165.968933" />
+		<pattr name = "shift" value = "109.979416" />
+		<pattr name = "vib_d" value = "2.296627" />
+		<pattr name = "vib_f" value = "-68." />
+	</slot>
+	<slot number = "33">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "94.547577" />
+		<pattr name = "cf*" value = "1.000192" />
+		<pattr name = "cf+" value = "-0." />
+		<pattr name = "shift" value = "0." />
+		<pattr name = "vib_d" value = "0.117438" />
+		<pattr name = "vib_f" value = "76." />
+	</slot>
+	<slot number = "34">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "94.547577" />
+		<pattr name = "cf*" value = "1.000192" />
+		<pattr name = "cf+" value = "-0." />
+		<pattr name = "shift" value = "-150." />
+		<pattr name = "vib_d" value = "0.214" />
+		<pattr name = "vib_f" value = "76." />
+	</slot>
+	<slot number = "35">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "108." />
+		<pattr name = "cf*" value = "1.000192" />
+		<pattr name = "cf+" value = "-0." />
+		<pattr name = "shift" value = "-150." />
+		<pattr name = "vib_d" value = "0.214" />
+		<pattr name = "vib_f" value = "76." />
+	</slot>
+	<slot number = "36">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "0.066407" />
+		<pattr name = "cf*" value = "1.000284" />
+		<pattr name = "cf+" value = "-0." />
+		<pattr name = "shift" value = "-504." />
+		<pattr name = "vib_d" value = "0.000065" />
+		<pattr name = "vib_f" value = "76." />
+	</slot>
+	<slot number = "37">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "0.066407" />
+		<pattr name = "cf*" value = "1.000284" />
+		<pattr name = "cf+" value = "-0." />
+		<pattr name = "shift" value = "-504." />
+		<pattr name = "vib_d" value = "0.000065" />
+		<pattr name = "vib_f" value = "76." />
+	</slot>
+	<slot number = "38">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "0.066407" />
+		<pattr name = "cf*" value = "1.000284" />
+		<pattr name = "cf+" value = "-0." />
+		<pattr name = "shift" value = "-504." />
+		<pattr name = "vib_d" value = "0.000065" />
+		<pattr name = "vib_f" value = "76." />
+	</slot>
+	<slot number = "39">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "1." />
+		<pattr name = "cf*" value = "1." />
+		<pattr name = "cf+" value = "1." />
+		<pattr name = "shift" value = "109.979683" />
+		<pattr name = "vib_d" value = "4.315" />
+		<pattr name = "vib_f" value = "139." />
+	</slot>
+	<slot number = "40">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "1." />
+		<pattr name = "cf*" value = "1." />
+		<pattr name = "cf+" value = "1." />
+		<pattr name = "shift" value = "109.979683" />
+		<pattr name = "vib_d" value = "4.315" />
+		<pattr name = "vib_f" value = "139." />
+	</slot>
+	<slot number = "41">
+		<pattr name = "amp*" value = "1." />
+		<pattr name = "bw" value = "1." />
+		<pattr name = "cf*" value = "1." />
+		<pattr name = "cf+" value = "1." />
+		<pattr name = "shift" value = "109.979683" />
+		<pattr name = "vib_d" value = "4.315" />
+		<pattr name = "vib_f" value = "139." />
+	</slot>
+	<slot number = "42">
+		<pattr name = "amp*" value = "" />
+		<pattr name = "bw" value = "" />
+		<pattr name = "cf*" value = "" />
+		<pattr name = "cf+" value = "" />
+		<pattr name = "shift" value = "" />
+		<pattr name = "vib_d" value = "" />
+		<pattr name = "vib_f" value = "" />
+	</slot>
+</pattrstorage>
+

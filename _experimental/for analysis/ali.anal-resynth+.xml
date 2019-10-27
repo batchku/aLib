@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+
+<pattrstorage name = "ali.anal-resynth+.xml">
+	<slot number = "1">
+		<pattr name = "adsr" value = "0.706897 0.637931 1. 0.672414" />
+		<pattr name = "amp-to-vel" value = "1. 0. 127. 0. 0. 0 0.33631 29.882355 0 0.726191 42.333336 0 1. 92.13726 0" />
+		<pattr name = "deferLow" value = "1" />
+		<pattr name = "envelope" value = "0" />
+		<pattr name = "equalTempord" value = "1" />
+		<pattr name = "freqscale" value = "1.24" />
+		<pattr name = "freqsmooth" value = "0" />
+		<pattr name = "gain" value = "119.971695" />
+		<pattr name = "gainall" value = "1." />
+		<pattr name = "hifreq" value = "2020" />
+		<pattr name = "lowfreq" value = "6" />
+		<pattr name = "magsmooth" value = "16" />
+		<pattr name = "migOscMult" value = "1" />
+		<pattr name = "multiSlider" value = "0" />
+		<pattr name = "topn" value = "10" />
+		<pattr name = "topnOsc" value = "30" />
+		<pattr name = "multiSlider[1]" value = "1" />
+		<patcher name = "ali.iana-par-osc.voi.1">
+			<patcher name = "sub patch">
+				<patcher name = "ali.res-transform-gui">
+					<pattr name = "ali.res-transform-gui~01.xml" value = "-1" />
+				</patcher>
+			</patcher>
+		</patcher>
+		<patcher name = "ali.iana-par-osc.voi.2">
+			<patcher name = "sub patch">
+				<patcher name = "ali.res-transform-gui">
+					<pattr name = "ali.res-transform-gui~01.xml" value = "-1" />
+				</patcher>
+			</patcher>
+		</patcher>
+		<patcher name = "ali.iana-par-osc.voi.3">
+			<patcher name = "sub patch">
+				<patcher name = "ali.res-transform-gui">
+					<pattr name = "ali.res-transform-gui~01.xml" value = "-1" />
+				</patcher>
+			</patcher>
+		</patcher>
+		<patcher name = "ali.iana-par-osc.voi.4">
+			<patcher name = "sub patch">
+				<patcher name = "ali.res-transform-gui">
+					<pattr name = "ali.res-transform-gui~01.xml" value = "-1" />
+				</patcher>
+			</patcher>
+		</patcher>
+		<patcher name = "ali.iana-par-osc.voi.5">
+			<patcher name = "sub patch">
+				<patcher name = "ali.res-transform-gui">
+					<pattr name = "ali.res-transform-gui~01.xml" value = "-1" />
+				</patcher>
+			</patcher>
+		</patcher>
+		<patcher name = "ali.iana-par-osc.voi.6">
+			<patcher name = "sub patch">
+				<patcher name = "ali.res-transform-gui">
+					<pattr name = "ali.res-transform-gui~01.xml" value = "-1" />
+				</patcher>
+			</patcher>
+		</patcher>
+		<patcher name = "ali.iana-par-osc.voi.7">
+			<patcher name = "sub patch">
+				<patcher name = "ali.res-transform-gui">
+					<pattr name = "ali.res-transform-gui~01.xml" value = "-1" />
+				</patcher>
+			</patcher>
+		</patcher>
+		<patcher name = "ali.iana-par-osc.voi.8">
+			<patcher name = "sub patch">
+				<patcher name = "ali.res-transform-gui">
+					<pattr name = "ali.res-transform-gui~01.xml" value = "-1" />
+				</patcher>
+			</patcher>
+		</patcher>
+		<patcher name = "ali.iana-par-osc.voi.9">
+			<patcher name = "sub patch">
+				<patcher name = "ali.res-transform-gui">
+					<pattr name = "ali.res-transform-gui~01.xml" value = "-1" />
+				</patcher>
+			</patcher>
+		</patcher>
+	</slot>
+</pattrstorage>
+

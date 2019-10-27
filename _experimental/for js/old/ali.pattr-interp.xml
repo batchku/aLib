@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes"?>
+
+<pattrstorage name = "ali.pattr-tracker.pattr">
+	<slot number = "1">
+		<pattr name = "hslider" value = "4" />
+		<pattr name = "hslider2" value = "15" />
+		<pattr name = "hslider[1]" value = "1" />
+		<pattr name = "hslider[3]" value = "10" />
+		<pattr name = "hslider[4]" value = "4" />
+		<pattr name = "theListMS" value = "70.734177 43.405064 11.253164" />
+		<patcher name = "space">
+			<pattr name = "ali.pattr-interp-space.pattr" value = "-1" />
+		</patcher>
+	</slot>
+	<slot number = "2">
+		<pattr name = "hslider" value = "93" />
+		<pattr name = "hslider2" value = "96" />
+		<pattr name = "hslider[1]" value = "62" />
+		<pattr name = "hslider[3]" value = "38" />
+		<pattr name = "hslider[4]" value = "102" />
+		<pattr name = "theListMS" value = "69.126579 85.20253 91.632912" />
+		<patcher name = "space">
+			<pattr name = "ali.pattr-interp-space.pattr" value = "-1" />
+		</patcher>
+	</slot>
+	<slot number = "3">
+		<pattr name = "hslider" value = "23" />
+		<pattr name = "hslider2" value = "17" />
+		<pattr name = "hslider[1]" value = "103" />
+		<pattr name = "hslider[3]" value = "58" />
+		<pattr name = "hslider[4]" value = "63" />
+		<pattr name = "theListMS" value = "114.139244 72.341774 22.506329" />
+		<patcher name = "space">
+			<pattr name = "ali.pattr-interp-space.pattr" value = "-1" />
+		</patcher>
+	</slot>
+	<slot number = "4">
+		<pattr name = "hslider" value = "127" />
+		<pattr name = "hslider2" value = "127" />
+		<pattr name = "hslider[1]" value = "127" />
+		<pattr name = "hslider[3]" value = "127" />
+		<pattr name = "hslider[4]" value = "127" />
+		<pattr name = "theListMS" value = "0. 0. 0." />
+		<pattr name = "theListMS[1]" value = "1." />
+		<patcher name = "space">
+			<pattr name = "ali.pattr-interp-space.pattr" value = "68 69 0.050514" />
+		</patcher>
+	</slot>
+</pattrstorage>
+
